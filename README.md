@@ -44,7 +44,7 @@ To-do list:
 Project is: _in progress_, _finished_, _no longer continue_ and why?
 
 ## Inspiration and resources
-* [shield.io](https://shields.io/#your-badge){target: https://shields.io/#your-badge}
+* Make your own shield: [shield.io](https://shields.io/#your-badge){:target="_blank"}
 * [@flynerdpl](https://www.flynerd.pl/)
 
 
