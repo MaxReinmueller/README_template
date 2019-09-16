@@ -1,5 +1,5 @@
 # README_template 
-![Version](https://img.shields.io/badge/version-1.0.2-brightgreen)
+![Version](https://img.shields.io/badge/version-1.0.4-brightgreen)
 > Because making sense just makes sense.
 
 ## Table of contents
@@ -44,8 +44,8 @@ To-do list:
 Project is: _in progress_, _finished_, _no longer continue_ and why?
 
 ## Inspiration and resources
-[shield.io](https://shields.io/#your-badge)
-[@flynerdpl](https://www.flynerd.pl/)
+* [shield.io](https://shields.io/#your-badge){target: https://shields.io/#your-badge}
+* [@flynerdpl](https://www.flynerd.pl/)
 
 
 ## Contact
