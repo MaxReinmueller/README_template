@@ -1,4 +1,4 @@
-# README_template
+# README_template https://img.shields.io/badge/version-1.0.0-brightgreen
 > Because making sense just makes sense.
 
 ## Table of contents
@@ -12,7 +12,7 @@
 * [Contact](#contact)
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+Created to leverage past work, achieve consistency in presentation, save time, and have fun!
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
@@ -42,8 +42,10 @@ To-do list:
 ## Status
 Project is: _in progress_, _finished_, _no longer continue_ and why?
 
-## Inspiration
-Add here credits. Project inspired by..., based on...
+## Inspiration and resources
+[shield.io](https://shields.io/#your-badge)
+[@flynerdpl](https://www.flynerd.pl/)
+
 
 ## Contact
 Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
