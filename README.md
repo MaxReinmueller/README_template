@@ -1,4 +1,7 @@
-# README_template https://img.shields.io/badge/version-1.0.0-brightgreen
+# README_template 
+[![Build Status](https://img.shields.io/travis/gitpoint/git-point.svg?style=flat-square)](https://travis-ci.org/gitpoint/git-point)
+
+[![Version](https://img.shields.io/badge/version-1.0.0-brightgreen)]
 > Because making sense just makes sense.
 
 ## Table of contents
