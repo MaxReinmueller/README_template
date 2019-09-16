@@ -1,5 +1,5 @@
 # README_template 
-[![Build Status](https://img.shields.io/travis/gitpoint/git-point.svg?style=flat-square)](https://travis-ci.org/gitpoint/git-point)
+[![Build Status](https://img.shields.io/travis/gitpoint/git-point.svg?style=flat-square)]
 
 [![Version](https://img.shields.io/badge/version-1.0.0-brightgreen)]
 > Because making sense just makes sense.
