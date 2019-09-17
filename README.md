@@ -1,6 +1,6 @@
 # README_template 
 ![Version](https://img.shields.io/badge/version-1.0.4-brightgreen)
-> Connect with like minded people based on a personality servey.
+> Because making sense just makes sense.
 
 ## Table of contents
 * [General info](#general-info)
