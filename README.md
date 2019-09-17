@@ -1,6 +1,6 @@
 # README_template 
 ![Version](https://img.shields.io/badge/version-1.0.4-brightgreen)
-> Because making sense just makes sense.
+> Connect with like minded people.
 
 ## Table of contents
 * [General info](#general-info)
