@@ -45,8 +45,7 @@ Project is: _in progress_, _finished_, _no longer continue_ and why?
 
 ## Inspiration and resources
 * Make your own shield: <a href="https://shields.io/#your-badge" target="https://shields.io/#your-badge">shield.io</a>
-* [@flynerdpl](https://www.flynerd.pl/)
 
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Feel free to contact me!
