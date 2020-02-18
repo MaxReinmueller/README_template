@@ -1,6 +1,6 @@
 # README_template 
 ![Version](https://img.shields.io/badge/version-1.0.4-brightgreen)
-> Because making sense just makes sense.
+> Template for future projects.
 
 ## Table of contents
 * [General info](#general-info)
